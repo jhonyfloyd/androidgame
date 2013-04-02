@@ -1,1 +1,16 @@
-"Juego basado en conceptos trigonométricos basicos y OPP en android"
+"Juego basado en conceptos trigonométricos básicos y OPP en android"
+Android aplication:
+  *OPP
+  * add,remove sprites
+  * collision detected
+  * moving sprites 
+  * simple collision detection
+  * Using Sound and music
+
+Aplicacion en android:
+  Android 1.6 
+ * basado en conceptos trigométricos
+ * Programacion orientada a objetos en android
+ * el juego consiste en una nave que trata de disparar al enemigo que van 
+   atravezando 
+ * manejo de sprites y sonidos 
